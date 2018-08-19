@@ -8,53 +8,53 @@
 
 | Week   | Date         | Reading         |                   Topic             	  | Slides      | Homework  	      | 
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
-| 1      | 01.15        |                 | **MLK DAY - NO CLASS**       |             |                 |	
-|        | 01.17        |                 | Discrete Intro. / Binary Arithmetic       |	[TW](https://drive.google.com/open?id=1i8A7sinKdxT1fBWIxM-hg7WioWAnN6r0)            |                 |	
-|        | 01.19        | 1.1             | Propositional Logic                       |	[TW](https://drive.google.com/open?id=1lgZpSCjV2lEB2_7yQOqPJmHjMS3Ocig4)            |                 |	
-| 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |	[TW](https://drive.google.com/open?id=1fQYjJIFzUCAm2HfwQ1BwE965j9-YLrZi)		        |	      	     	  | 
-|        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	[TW](https://drive.google.com/open?id=1OrDshJjFyktHIQehsdoXryRpdj_Qyvox)    | [Quizlet01](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21428)            |	
-|        | 01.26        | 1.4             | Predicates and Quantifiers                |	[TW](https://drive.google.com/open?id=1r1h95vFaAtS2wOJGM7F1IE-7kjs6ZybG)		        | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19437)   |
-| 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	[TW](https://drive.google.com/open?id=1mpkdN2twai28GkCA3xMvNBN38lxYK9MY)/[AK](https://drive.google.com/file/d/14sLi79_npogRtXbq_C54bN60B2BtYqU6/view?usp=sharing)            |                 | 
-|        | 01.31        | 1.6             | Rules of Inference		                    |	[TW](https://drive.google.com/open?id=1u_EwiWVYsRGeBFj85ljqNNPtN6pGP7cu)/[AK](https://drive.google.com/file/d/12RpsC4Fu0uYGDGdTy-EQrDEuBL1ROH_L/view?usp=sharing)            | [Quizlet02](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21607)                | 
-|        | 02.02        | 1.6             | Rules of Inference, continued             |	[TW](https://drive.google.com/open?id=18IrqheTO7DKJRbyg4Fo2ryH3pJCrfBGV)/[AK](https://drive.google.com/file/d/1pl36bn9hHDb9LCgy9-bxcBtv-s3PGYoG/view?usp=sharing)		        | [HW02 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jcvc7lhp7fv1qb)  |
-| 4      | 02.05        | 1.7             | Introduction to Proofs 	                  |	[TW](https://drive.google.com/open?id=1e_e3x9LX6rraEYYRD4QYtBSc4ggU2stG)/[AK](https://drive.google.com/file/d/1aDhKZ7U4ig22oOVZpdyzB_UsUf-Q_1LQ/view?usp=sharing)           | [Quizlet03](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21708)                | 
-|        | 02.07        | 1.8             | Proof Methods and Strategy 	              | [TW](https://drive.google.com/open?id=1qjgez__GA165a17cIWvD_gSZi4uSFWot)/[AK](https://drive.google.com/file/d/1ftCqJ62mW-QP14QX0kzx9Tsye0hLhxIy/view?usp=sharing)            |                 | 	
-|        | 02.09        | 2.1, 2.2        | Set Theory and Set Operations	 	          | [TW](https://drive.google.com/open?id=134kpyxSmNqdZ5nXy4dn97BChh5lcILvR)/[AK](https://drive.google.com/file/d/1QQE17kUF4bcuKQK3FFFTluXuQKy1CYxZ/view?usp=sharing)  			    | [HW03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19438)   |
-| 5      | 02.12        | 2.2, 2.3        | Set Operations and Functions      		    |	[TW](https://drive.google.com/open?id=1rkFEUVotirkRjcW63VaQF8GGQ-x00BsT)            | [Quizlet04](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21852)                | 
-|        | 02.14        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	[TW](https://drive.google.com/open?id=1opHM6AZ2kfNvLI1S_Q5_BXzKaxN_ebQW)            |                 | 
-|        | 02.16        | 2.4             | Sequences 						  		              |	[TW](https://drive.google.com/open?id=13XydSpNyHafCzxntk4QpUMDWWG292agp)/[AK](https://drive.google.com/file/d/1GtNkGa5bBo3jRCq_u5fDLqPh3Ra1KGSH/view?usp=sharing)		        | [HW04 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jdg3fxcww5915p), [Quizlet05](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21955)  |
-| 6      | 02.19        | 3.1             | Algorithms 						  		              |	[TW](https://drive.google.com/open?id=1DB--epJOcAXs_Ayamey0x2cR8c_BjECq)/[AK](https://drive.google.com/file/d/1dBo-Gmn8Ra7ckX5F-l-0ZHuOPmYj0Oko/view?usp=sharing)          | Evening Review; [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19433)      | 
-|        | 02.21        | 3.2, 3.3        | Complexity			                          |	[TW](https://drive.google.com/open?id=1yu8xNf6joOgmMIkHDskw6BFYycUjSsCt)/[AK](https://drive.google.com/open?id=1dBo-Gmn8Ra7ckX5F-l-0ZHuOPmYj0Oko)            | **EVENING MIDTERM** | 
-|        | 02.23        | 3.3, 2.6        | Complexity and Matrix Operations          |	[TW](https://drive.google.com/open?id=1Hs8OEcrH4WaKREkplOicBuVGB7kx1L_p)/[AK](https://drive.google.com/open?id=1Pozqc6GuTKwN9KgBMHwuhJ9FVqgxVEUL)		        | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19439)   |
-| 7      | 02.26        | 4.1, 4.2        | Divisibility and Modular Arithmetic		    |	[TW](https://drive.google.com/open?id=1xsZI1Jeoxco9ZORBpTIseBMYuFzCSetH)/[AK](https://drive.google.com/open?id=1CoxLT8bLnIvASoKsiMOTgN9Eoh1rH6KQ)            |                 | 
-|        | 02.28        | 4.2             | Modular Exponentiation                 |	   [TW](https://drive.google.com/open?id=1PGPp0ZgSKYzx-7tWcs80c6gZcSem8wkI)/[AK](https://drive.google.com/open?id=1CoxLT8bLnIvASoKsiMOTgN9Eoh1rH6KQ)            |                 | 
-|        | 03.02        | 4.3             | Primes and GCD 							              |	[TW](https://drive.google.com/open?id=1qowvnhOSUo3fAast7RAClyYvcTMU55iZ)/[AK](https://drive.google.com/open?id=1latCuwl_7cjOZX8QiUWLKstO5YywWRmK)		        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/je0fexnbbdf398)  |
-| 8      | 03.05        | 4.4, 4.5        | Congruences and Applications              |	[TW](https://drive.google.com/open?id=1Ly8rajFgmgD6ZDvU8AoHTfKVtYmj6Mul)/[AK](https://drive.google.com/open?id=10Dmh2Wt4zQ7j0L8ApE9gpBJQsdDtf9_M)            | [Quizlet06](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22344)                | 
-|        | 03.07        | 4.4             | Systems of Congruences 				        	  |	[TW](https://drive.google.com/open?id=10BJZ0dCnGLpzUiZ-uQDJSogvkUit8heh)/[AK](https://drive.google.com/open?id=11jDX8RPMDlxlBYcw_rwcTx3VOWUe_hRK)            |                 | 
-|        | 03.09        | 4.6             | Cryptography                              |	[TW](https://drive.google.com/open?id=1OB3rbyxGz_H8URmbFNwkOxImfpmpJF5H)/[AK](https://drive.google.com/open?id=1YWgqqANi5MpLuvmRTMYEbKgYL5zXmLmG)            | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19440)   | 
-| 9      | 03.12        | 5.1             | Weak Induction                            |	[TW](https://drive.google.com/open?id=1-BHc0wOkr8n19TnCS46YWKfpbnCVx3wH)/[AK](https://drive.google.com/open?id=1Z8Nf7c41XtK3e8q1QZWZ0nKw27OLrUTI)            | [Quizlet07](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22505)                | 
-|        | 03.14        | 5.2             | Strong Induction 						  	          |	[TW](https://drive.google.com/open?id=1IgRZ7zXtACyfUudo0_dicUtiCkc4odh_)/[AK](https://drive.google.com/open?id=1wfvzn58zhTxQ404AAa43oFV8jhBympIh)           |                 | 
-|        | 03.16        | 5.3, 5.4        | Recursion 						              		  |	[TW](https://drive.google.com/open?id=1_7TBjxtgG9SyEzVsqGmM5gDHK7jzqDA7)/[AK](https://drive.google.com/open?id=1-1Lz1qZqKVmrb88dUPt0DFbuoCMT4sUM)		        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jek7u9pwv663jq)  |
-| 10     | 03.19        | 6.1             | Counting  		                            |	[TW](https://drive.google.com/open?id=1YGWB0-GsQ3vsYuLDqPlFfL5WIn11FdDf)/[AK](https://drive.google.com/open?id=18UTsbuILNHmbvf5VsQ0fa0QVfLWOTcZy)            | [Quizlet08](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22615)                | 
-|        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	[TW](https://drive.google.com/open?id=1esJ7XU68vuS7VEL-841eH4AvDcYCYshr)/[AK](https://drive.google.com/open?id=1DIfJhZ6YABjF8wanAUBLnTojkqpKRr_R)            |                 | 
-|        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |	[TW](https://drive.google.com/open?id=1LPti7cFdTpeU3Nvq1Y-ONpphMtCIL1zV)/[AK](https://drive.google.com/open?id=15DO5eovabyJhOyi615qJRtWQlUndpBHM)       	    | [HW09 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jeu9bt2pehfr)   |
-|        | 03.26        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
-|        | 03.28        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
-|        | 03.30        |                 | **SPRING BREAK - NO CLASS**               |			        |                 |
-| 11     | 04.02        | 7.1             | Basic Probability                         |	[TW](https://drive.google.com/open?id=1xF579fIJcb9ZCRumBsV6cZpRn1gdZNMA)/[AK](https://drive.google.com/open?id=1g-uRbmOQ494RpOmx-11n7UiM6qUBpF4R)            | [Evening Review](https://drive.google.com/open?id=1UVcyvbpV91vnyfQXKeOCBDYuhAYo1Ui-), [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19434)      | 
-|        | 04.04        | 7.2             | Basic Probability Theory	                |	[TW](https://drive.google.com/open?id=1ECVYdfVCSlD598HJopbj-qcG7Qn8Pws3)/[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)            | **EVENING MIDTERM** | 
-|        | 04.06        | 7.3             | Bayes' Theorem              		          |	[TW](https://drive.google.com/open?id=1tUDHzl6ZEMZYmjoTXm-9cJdZ6k9if5c0)/[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)		        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
-| 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |	[TW](https://drive.google.com/open?id=1pG_-qf0F_41Fgnz4Hx8mbWLeOHi499z9)/[AK](https://drive.google.com/open?id=1vzAGHz6JSfUQosXY12k9RARnPdKEY8hC)		        |	[Quizlet09](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22619)                | 
-|        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |	[TW](https://drive.google.com/open?id=1t7tpqhoOU2P_37yFIAOY0GpddeS-ouGq)/[AK](https://drive.google.com/open?id=1ysBeJTZkQnbhEdcgoMzJ0zr8plcF_Ch1)	        |	[In-class notebook](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfx82lx93fd3vj)	([PDF](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfzzmc3kykf42k))	            | 
-|        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |	[TW](https://drive.google.com/open?id=1vIlxNbTclbrjS4HQBq_Fkel5d7ju0bNG)/[AK](https://drive.google.com/open?id=1Sojx78s8UVSVBZ5RDrrGZBmr01mc9Ilr)	        |	[HW11 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfod2iqulek57q)   | 
-| 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  | (above)            | [Quizlet10](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23083)                | 
-|        | 04.18        | 9.1, 9.2        | Basic Relations and Properties            |	 [TW](https://drive.google.com/open?id=1EsIp8m0LUi5wuUXyWFI-PmWKmfJwuJOd)/[AK](https://drive.google.com/open?id=1L6an5jEW-A31xMgcLR1lU4LadGrBI18V)           | [Quizlet11](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23124)                | 
-|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |		[TW](https://drive.google.com/open?id=18QZ0lKPxBknHXwSA0M6wHRqbgGmqFZrl)/[AK](https://drive.google.com/open?id=16kUuvYMXh2876hMN7CeF9gPDkzvTzJI8)	        | [HW12 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19442)  |
-| 14     | 04.23        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	 [TW](https://drive.google.com/open?id=1XL0Z7WHlzSjjMTa9lufWEdZadJ6iWzVx)/[AK](https://drive.google.com/open?id=1KI67govacio3fssFRNZCcdXy5WZ0xWkr)         |                 | 
-|        | 04.25        | 10.8            | Graph Coloring and Scheduling Problems    |	[TW](https://drive.google.com/open?id=1pbxvjHLe3eOk8gEegOGcvJCxVLr_No2Y)/[AK](https://drive.google.com/open?id=1Ss07Sq_LPTPv19kF3Or01zSLjCEKsimq)           | [Quizlet12](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23280)                | 
-|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	[TW](https://drive.google.com/open?id=1JK8HSibxxPkLNGW-EBICAk4hYRJ2EG1h)/[AK](https://drive.google.com/open?id=1FLd8NDwhQwmo-yd8emg4BUSmsqPLSz9q)    		    | [Quizlet13](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23330)                |
-| 15     | 04.30        |                 | Structural Induction on Trees             |	[TW](https://drive.google.com/open?id=1m1vdlgyWbI9jLlXZH8a8-QvNO8jFvvEc)/[AK](https://drive.google.com/open?id=1DUUTK0Jv41tyGaVGpPY8ARbLMxn_WC2O)            |                 | 
-|        | 05.02        |                 | Huffman Encoding                          |	[TW](https://drive.google.com/open?id=1IePOo0dx0zS4USmJVIT_Xx_T7zoWgLjo)/[AK](https://drive.google.com/open?id=1Xac381A8uuCNYjqLTgU_vtG1OOwog21r)		        |	[HW13 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jgcnjtrt4sb37a)  |
-|        | 05.04        |                 | **READING DAY - FINAL EXAM REVIEW**	      |		[Slides](https://drive.google.com/open?id=1SCdOTJcbavbMhaLIEI0V20b4UMM8VmVx)	    |	[Moodle problems](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22688)          |
-| 16     | 05.05        | (Saturday)      | **FINAL EXAM SECTION 001, 4:30-7 PM**     |			    |			      | 
-|        | 05.08        | (Tuesday)       | **FINAL EXAM SECTION 002, 1:30-4 PM**     |			    |			      | 
+| 1      | 08.27        |                 | Discrete Intro. / Binary Intro.           |             |                 |	
+|        | 08.29        |                 | Binary Arithmetic                         |	            |                 |	
+|        | 08.31        | 1.1             | Propositional Logic                       |	            |                 |	
+| 2      | 09.03        |                 | **Labor Day - No Class**                  |			        |	      	     	  | 
+|        | 09.05        | 1.1, 1.2        | Propositional Logic and Applications      |			        |	      	     	  | 
+|        | 09.07        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	    | HW01 (online)   |	
+| 3      | 09.10        | 1.4             | Predicates and Quantifiers                |			        |                 |
+|        | 09.12        | 1.5             | Nested Quantifiers			                  |	            |                 | 
+|        | 09.14        | 1.6             | Rules of Inference		                    |	            | HW02 (written)  | 
+| 4      | 09.17        | 1.6             | Rules of Inference, continued             |			        |                 |
+|        | 09.19        | 1.7             | Introduction to Proofs 	                  |	            |                 | 
+|        | 09.21        | 1.8             | Proof Methods and Strategy 	              |             | HW03 (online)   | 	
+| 5      | 09.24        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    |                 |
+|        | 09.26        | 2.2, 2.3        | Set Operations and Functions      		    |	            |                 | 
+|        | 09.28        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            | HW04 (written)  | 
+| 6      | 10.01        |                 | **Exam Review**				  		              |			        |                 |
+|        | 10.03        | 2.4             | Sequences                                 |	            | **EVENING MIDTERM** |
+|        | 10.05        | 3.1             | Algorithms 						  		              |             | HW05 (online)   |
+| 7      | 10.08        | 3.2, 3.3        | Complexity			                          |	            |                 | 
+|        | 10.10        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |                 |
+|        | 10.12        |                 | More Complexity Examples          		    |	            | HW06 (written)  | 
+| 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
+|        | 10.17        | 5.2             | Strong Induction						              |			        |                 |
+|        | 10.19        | 5.3, 5.4        | Recursion                                 |	            | HW07 (online)   | 
+| 9      | 10.22        | 5.1-5.4         | More Induction Examples 			        	  |	            |                 | 
+|        | 10.24        | 6.1             | Counting                                  |	            |                 | 
+|        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | HW08 (written)  | 
+| 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	            |                 | 
+|        | 10.31        | 6.4, 6.5        | Binomial Theorem, and More Counting	 		  |			        |                 |
+|        | 11.02        | 7.1             | Basic Probability                         |	            | HW09 (online)   | 
+| 11     | 11.05        |                 | **Exam Review**                           |	            |                 | 
+|        | 11.07        | 7.2       	    | Basic Probability Theory                  |	       	    | **EVENING MIDTERM** |
+|        | 11.09        | 7.3             | Bayes' Theorem                            |	            | HW10 (written)  | 
+| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            |                 | 
+|        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
+|        | 11.16        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (online)   | 
+|        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
+|        | 11.21        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
+|        | 11.23        |                 | **FALL BREAK - NO CLASS**                 |			        |                 |
+| 13     | 11.26        | 8.2, 8.3        | Solving Linear More Recurrences           |		          |	  	            | 
+|        | 11.28        | 8.2, 8.3        | Recurrences and Induction                 |		          |	                | 
+|        | 11.30        | 9.1, 9.2        | Basic Relations and Properties    			  |             | HW12 (online)   | 
+| 14     | 12.03        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	            |                 | 
+|        | 12.05        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			        |                 |
+|        | 12.07        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
+| 15     | 12.10        | 11.1, 11.2      | Basic Trees                               |	    		    |                 |
+|        | 12.12        |                 | Structural Induction on Trees             |	            |                 | 
+|        | 12.14        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			        |	                |
+| 16     | 12.16        | (Sunday)        | **FINAL EXAM SECTION 002, 7:30-10 PM**    |			        |			            | 
+|        | 12.19        | (Wednesday)     | **FINAL EXAM SECTION 001, 1:30-4 PM**     |			        |	      		      | 
