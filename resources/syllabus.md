@@ -1,11 +1,11 @@
-# CSCI 2824: Discrete Structures, Spring 2018
+# CSCI 2824: Discrete Structures, Fall 2018
 
 
 ### Course Information 
 
-* **Section 001**: MWF 9-9:50 am in GOLD A2B70 with Tony Wong
+* **Section 001**: MWF 9-9:50 am in FLMG 155 with Rachel Cox
 
-* **Section 002**: MWF 11-11:50 am in HLMS 252 with Alexandra Kolla
+* **Section 002**: MWF 11-11:50 am in HUMN 1B50 with Tony Wong
 
 * **Prerequisites**: 
 	* C- or better in Calculus 1 
@@ -13,9 +13,9 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Tony: M/Th/F 10-11 am in ECOT 623 (or by appointment)
-	* Alexandra: M/W 13:15-14:15 pm ECES 122 (or by appointment)
-	* CAs: In CSEL - https://goo.gl/7k5R7a
+	* Rachel: T/Th 10:30am-12:00pm in ECCR 241
+	* Tony: TDB (or by appointment)
+	* CAs: In CSEL - https://goo.gl/i7BA3u
 
 ### Why Discrete Structures? 
 
@@ -27,7 +27,6 @@ _Computer Science_ is all about solving interesting problems efficiently and che
 * Search for web pages (better than [Google](http://www.google.com), [Bing](http://www.bing.com) or your favorite search engine??)
 * Find the biggest [clique](http://en.wikipedia.org/wiki/Clique) on Facebook. How many people are in this clique? Who are they?
 * Understand how to sequence the human genome.
-* Find all the prime factors for really large number (> 10^10000).
 * Write a program to play _go_ (and play better than the best human champion?).
 * Write a program to check if a program is “correct” (keeps your instructor awake at night!).
 
@@ -50,7 +49,7 @@ Roughly, we will cover the following topics (some of them may be skipped dependi
 * **Discrete Probability**: Basic facts, Bayes' Rule 
 * **Graphs**: Definitions and properties of graphs.
 * **Trees**: Definitions and properties of trees.
-* **Example Applications**: Artificial Intelligence (automated reasoning, game playing), Graphics (drawing fractals), Cryptography (RSA) and Networks (social network analysis).
+* **Example Applications**: Artificial Intelligence (automated reasoning, game playing), Graphics (drawing fractals) and Networks (social network analysis).
 
 ### Textbook 
 
@@ -60,9 +59,9 @@ We realize the book is pricey, but it's pretty well-written and includes lots of
 
 ### Course Web Page 
 
-[https://piazza.com/colorado/spring2018/csci2824](https://piazza.com/colorado/spring2018/csci2824)
+[https://piazza.com/colorado/fall2018/csci2824](https://piazza.com/colorado/fall2018/csci2824)
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me private messages to the instructors.  If you have a question specifically for Tony or Alexandra, please be sure to address your message to us by name. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing us questions, we request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send us private messages to the instructors.  If you have a question specifically for Tony or Rachel, please be sure to address your message to us by name. **It is your responsibility to check the web page on a regular basis**. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Coursework 
 
@@ -118,15 +117,17 @@ The collaboration policy is simple:
 
 **Honor Code**
 
-All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the [academic integrity policy](http://www.colorado.edu/policies/academic-integrity-policy). Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, resubmission, and aiding academic dishonesty. All incidents of academic misconduct will be reported to the Honor Code Council ([honor@colorado.edu](honor@colorado.edu); 303-735-2273). Students who are found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code Council as well as academic sanctions from the faculty member. Additional information regarding the academic integrity policy can be found at the [Honor Code Office website](http://www.colorado.edu/honorcode/).
+All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the Honor Code. Violations of the policy may include: plagiarism, cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. All incidents of academic misconduct will be reported to the Honor Code (<honor@colorado.edu>); 303-492-5550). Students who are found responsible for violating the academic integrity policy will be subject to nonacademic sanctions from the Honor Code as well as academic sanctions from the faculty member. Additional information regarding the Honor Code academic integrity policy can be found at the [Honor Code Office website](https://www.colorado.edu/osccr/honor-code).
 
 **Disability Accommodations**
 
-If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner (for exam accommodations provide your letter at least one week prior to the exam) so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the [Disability Services website](http://www.colorado.edu/disabilityservices/students).  Contact Disability Services at 303-492-8671 or [dsinfo@colorado.edu](dsinfo@colorado.edu) for further assistance.  If you have a temporary medical condition or injury, see [Temporary Medical Conditions](http://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) under the Students tab on the Disability Services website and discuss your needs with your professor.
+If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the [Disability Services website](http://www.colorado.edu/disabilityservices/students). Contact Disability Services at 303-492-8671 or <dsinfo@colorado.edu> for further assistance.  If you have a temporary medical condition or injury, see [Temporary Medical Conditions](http://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) under the Students tab on the Disability Services website.
 
 **Religious Observances**
 
-Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments, or required attendance. If you have an exam or assignment conflict due to a religious observance please notify your instructor in a timely manner (at least one week prior to the due date). See the [campus policy regarding religious observances](http://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details.
+Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. If you have an exam or assignment conflict due to a religious observance please notify your instructor in a timely manner (at least one week prior to the due date).
+
+See the [campus policy regarding religious observances](http://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details.
 
 **Classroom Behavior**
 
@@ -134,7 +135,10 @@ Students and faculty each have responsibility for maintaining an appropriate lea
 
 **Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation**
 
-The University of Colorado Boulder (CU Boulder) is committed to maintaining a positive learning, working, and living environment. CU Boulder will not tolerate acts of sexual misconduct, discrimination, harassment or related retaliation against or by any employee or student. CU's Sexual Misconduct Policy prohibits sexual assault, sexual exploitation, sexual harassment, intimate partner abuse (dating or domestic violence), stalking or related retaliation. CU Boulder's Discrimination and Harassment Policy prohibits discrimination, harassment or related retaliation based on race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. Individuals who believe they have been subject to misconduct under either policy should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127. Information about the OIEC, the above referenced policies, and the campus resources available to assist individuals regarding sexual misconduct, discrimination, harassment or related retaliation can be found at the [OIEC website](http://www.colorado.edu/institutionalequity/).
+The University of Colorado Boulder (CU Boulder) is committed to fostering a positive and welcoming learning, working, and living environment. CU Boulder will not tolerate acts of sexual misconduct (including sexual assault, exploitation, harassment, dating or domestic violence, and stalking), discrimination, and harassment by members of our community. Individuals who believe they have been subject to misconduct or retaliatory actions for reporting a concern should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or <cureport@colorado.edu>. Information about the OIEC, university policies, [anonymous reporting](https://cuboulder.qualtrics.com/jfe/form/SV_0PnqVK4kkIJIZnf), and the campus resources can be found on the [OIEC website](http://www.colorado.edu/institutionalequity/).
+
+Please know that faculty and instructors have a responsibility to inform OIEC when made aware of incidents of sexual misconduct, discrimination, harassment and/or related retaliation, to ensure that individuals impacted receive information about options for reporting and support resources.
+
 
 
 
