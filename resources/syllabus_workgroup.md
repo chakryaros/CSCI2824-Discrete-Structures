@@ -21,10 +21,12 @@
 
 ### What's the deal with this workgroup? 
 
-#### What this is:####
+#### What this is:
 There are many diverse topics covered in the lecture section of Discrete Structures, CSCI 2824. A workgroup course provides an opportunity for students to get some extra "time in the saddle" tackling tough problems and taking a deeper dive into the course content than the shorter 50-minute lecture slots permit.
 
-#### What this is *not*:####
+Workgroup meetings will be facilitated by the teaching assistants. Students will work in small groups (about 4 students) on problem sets related to lecture content. These problem sets will be posted under the Resources Tab on Piazza. 
+
+#### What this is *not*:
 This is **NOT** an opportunity to work on lecture section homework and ask the TAs questions about it. The TAs will **not** answer questions pertaining to homework problems during the workgroup, and will be on the look-out for instances of Academic Dishonesty (copy other students' solutions for homework). If you show up to the workgroup but do non-workgroup work, you are completely missing the point, and this constitutes an absence (more on this below).
 
 
