@@ -49,10 +49,12 @@ You do not need to turn anything in. You just need to show up and try. You shoul
 
 This is a Pass/Fail course. Grading is based purely on attendance:
 * You are permitted two (2) absences.
+  * These are meant to cover circumstances within your control, like missing the bus and being super late, or your roommate has a piano recital.
 * If you have more than two absences, then you fail the class. Otherwise, you pass. Pretty easy, right?
-* Being more than 15 minutes late constitutes an absence.
+* Being more than 15 minutes late constitutes an absence. 
 * Showing up and doing things besides the worksheet also constitutes an absence. **This includes working on lecture section homework.**
 * Absences in excess of two will require documentation (e.g., note from a medical center). Documentation should be sent **electronically** to the instructional team via Piazza.
+  * These are meant to cover circumstances outside of your control, like you or a family member being sick.
 
 
 ### Standard Course Policies 
