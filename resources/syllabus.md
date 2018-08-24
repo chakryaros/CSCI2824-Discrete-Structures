@@ -13,7 +13,7 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Rachel: T/Th 10:30am-12:00pm in ECOT 732
+	* Rachel: T 10am-1pm in ECOT 732
 	* Tony: TDB (or by appointment) in ECOT 623
 	* CAs: In CSEL - https://goo.gl/i7BA3u
 
