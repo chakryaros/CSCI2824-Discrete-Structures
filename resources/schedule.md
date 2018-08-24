@@ -25,8 +25,8 @@
 |        | 09.28        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            | HW04 (written)  | 
 | 6      | 10.01        |                 | **Exam Review**				  		              |			        |                 |
 |        | 10.03        | 2.4             | Sequences                                 |	            | **EVENING MIDTERM** |
-|        | 10.05        | 3.1             | Algorithms 						  		              |             | HW05 (online)   |
-| 7      | 10.08        | 3.2, 3.3        | Complexity			                          |	            |                 | 
+|        | 10.05        | 3.1             | Algorithms 						  		              |             |                 |
+| 7      | 10.08        | 3.2, 3.3        | Complexity			                          |	            | HW05 (online)   | 
 |        | 10.10        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |                 |
 |        | 10.12        |                 | More Complexity Examples          		    |	            | HW06 (written)  | 
 | 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
@@ -40,8 +40,8 @@
 |        | 11.02        | 7.1             | Basic Probability                         |	            | HW09 (online)   | 
 | 11     | 11.05        |                 | **Exam Review**                           |	            |                 | 
 |        | 11.07        | 7.2       	    | Basic Probability Theory                  |	       	    | **EVENING MIDTERM** |
-|        | 11.09        | 7.3             | Bayes' Theorem                            |	            | HW10 (written)  | 
-| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            |                 | 
+|        | 11.09        | 7.3             | Bayes' Theorem                            |	            |                 | 
+| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | HW10 (written)  | 
 |        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
 |        | 11.16        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (online)   | 
 |        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
@@ -54,7 +54,7 @@
 |        | 12.05        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			        |                 |
 |        | 12.07        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
 | 15     | 12.10        | 11.1, 11.2      | Basic Trees                               |	    		    |                 |
-|        | 12.12        |                 | Structural Induction on Trees             |	            |                 | 
+|        | 12.12        |                 | Structural Induction on Trees             |	            | HW13 (written)  | 
 |        | 12.14        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			        |	                |
 | 16     | 12.16        | (Sunday)        | **FINAL EXAM SECTION 002, 7:30-10 PM**    |			        |			            | 
 |        | 12.19        | (Wednesday)     | **FINAL EXAM SECTION 001, 1:30-4 PM**     |			        |	      		      | 
