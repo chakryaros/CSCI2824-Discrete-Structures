@@ -14,7 +14,7 @@
 
 * **Office Hours**: 
 	* Rachel: T 10am-1pm in ECOT 732
-	* Tony: TDB (or by appointment) in ECOT 623
+	* Tony: W 3-4pm, Th 10am-12pm in ECOT 623 (or by appointment)
 	* CAs: In CSEL - https://goo.gl/i7BA3u
 
 ### Why Discrete Structures? 
