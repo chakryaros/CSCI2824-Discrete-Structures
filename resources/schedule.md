@@ -12,7 +12,7 @@
 |        | 08.29        |                 | Binary Arithmetic                         |	[TW](https://drive.google.com/open?id=1Jp93B5xL6qjIo2y-dnXkpRYiTOFJ4out)/[RC](https://drive.google.com/file/d/1loU5lfHxkBcImSCugb2gigzF0UQAfEtG/view?usp=sharing), [nb](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jldq753k1xnc5)            |                 |	
 |        | 08.31        | 1.1             | Propositional Logic                       |	[TW](https://drive.google.com/open?id=1D2vuwqDaLugkwJFlWQvrwFhP-6298QCU)/[RC](https://drive.google.com/file/d/1-hGuv3W4hW9TIg9c0O4LVOPAlPXPIa6o/view?usp=sharing)            |                 |	
 | 2      | 09.03        |                 | **Labor Day - No Class**                  |			        |	      	     	  | 
-|        | 09.05        | 1.1, 1.2        | Propositional Logic and Applications      |			        |	      	     	  | 
+|        | 09.05        | 1.1, 1.2        | Propositional Logic and Applications      |			        |	[Quizlet01 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26828)      	     	  | 
 |        | 09.07        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	    | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26827)   |	
 | 3      | 09.10        | 1.4             | Predicates and Quantifiers                |			        |                 |
 |        | 09.12        | 1.5             | Nested Quantifiers			                  |	            |                 | 
