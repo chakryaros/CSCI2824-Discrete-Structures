@@ -16,7 +16,7 @@
 |        | 09.07        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	[TW1](https://drive.google.com/open?id=1Qqh-iXk_vBl9CayUsA-NcJMr2WrPIQHV),[TW2](https://drive.google.com/open?id=1xRyzksrvxjk-asDnEDnE5qC3OR9AZld2)/RC    | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26827)   |	
 | 3      | 09.10        | 1.4             | Predicates and Quantifiers                |			        |                 |
 |        | 09.12        | 1.5             | Nested Quantifiers			                  |	            |                 | 
-|        | 09.14        | 1.6             | Rules of Inference		                    |	            | HW02 (written)  | 
+|        | 09.14        | 1.6             | Rules of Inference		                    |	            | [HW02 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jls7xjsmmoz2ua)  | 
 | 4      | 09.17        | 1.6             | Rules of Inference, continued             |			        |                 |
 |        | 09.19        | 1.7             | Introduction to Proofs 	                  |	            |                 | 
 |        | 09.21        | 1.8             | Proof Methods and Strategy 	              |             | HW03 (online)   | 	
