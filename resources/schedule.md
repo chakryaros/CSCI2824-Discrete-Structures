@@ -17,7 +17,7 @@
 | 3      | 09.10        | 1.4             | Predicates and Quantifiers                |			[TW](https://drive.google.com/open?id=1AIoQLEcaSB5cOisg4BALEsxeBAcgFawN)/[RC](https://drive.google.com/file/d/1XyFN0vH-njF9dfgSDizJsv-uXzIdO4B9/view?usp=sharing)        |                 |
 |        | 09.12        | 1.5             | Nested Quantifiers			                  |	[TW](https://drive.google.com/open?id=1R4upU5XhAzR7WbHnJ8wjkv4683EDSFaE)/[RC](https://drive.google.com/file/d/1u-0cQxVxHsr-fBf3Cbt-FdZ2lJpmOR4S/view?usp=sharing)            | [Quizlet02 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26829)                | 
 |        | 09.14        | 1.6             | Rules of Inference		                    |	[TW](https://drive.google.com/open?id=1xdgM1PbSFmwdmoseLEneCt2TLnj1DJ6_)/RC            | [HW02 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jls7xjsmmoz2ua)  | 
-| 4      | 09.17        | 1.6             | Rules of Inference, continued             |			        |                 |
+| 4      | 09.17        | 1.6             | Rules of Inference, continued             |			        | [Quizlet03 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26830)                |
 |        | 09.19        | 1.7             | Introduction to Proofs 	                  |	            |                 | 
 |        | 09.21        | 1.8             | Proof Methods and Strategy 	              |             | HW03 (online)   | 	
 | 5      | 09.24        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    |                 |
