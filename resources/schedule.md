@@ -24,7 +24,8 @@
 |        | 09.26        | 2.2, 2.3        | Set Operations and Functions      		    |	            |                 | 
 |        | 09.28        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            | HW04 (written)  | 
 | 6      | 10.01        |                 | **Exam Review**				  		              |			        |                 |
-|        | 10.03        | 2.4             | Sequences                                 |	            | **EVENING MIDTERM** |
+|        | 10.02        |                 | (Tuesday; no class)                       |	            | **EVENING MIDTERM** |
+|        | 10.03        | 2.4             | Sequences                                 |	            |                 |
 |        | 10.05        | 3.1             | Algorithms 						  		              |             |                 |
 | 7      | 10.08        | 3.2, 3.3        | Complexity			                          |	            | HW05 (online)   | 
 |        | 10.10        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |                 |
