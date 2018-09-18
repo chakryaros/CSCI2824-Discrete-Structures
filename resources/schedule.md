@@ -19,7 +19,7 @@
 |        | 09.14        | 1.6             | Rules of Inference		                    |	[TW](https://drive.google.com/open?id=1OaKSf-0QFA6mkkoU7SSrK11iXLxvfcZt)/[RC](https://drive.google.com/file/d/1oFDbnw7ZqxNwJ924xzAr9cISOg2-1pLr/view?usp=sharing)            | [HW02 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jls7xjsmmoz2ua)  | 
 | 4      | 09.17        | 1.6             | Rules of Inference, continued             |			[TW](https://drive.google.com/open?id=1rYaHLZWfn0HiP4SAU3ojZDIWkK2igf7P)/[RC](https://drive.google.com/file/d/1znKhEhEhvP8bDdsXYd2VdqrtozzDkgat/view?usp=sharing)        | [Quizlet03 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26830)                |
 |        | 09.19        | 1.7             | Introduction to Proofs 	                  |	   TW/[RC](https://drive.google.com/file/d/1ITMvJb-rpJzARELQLq36RBEJvjoVrNDr/view?usp=sharing)         |                 | 
-|        | 09.21        | 1.8             | Proof Methods and Strategy 	              |             | [HW03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26831)   | 	
+|        | 09.21        | 1.8             | Proof Methods and Strategy 	              |             | [HW03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26831), [Quizlet04 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26832)   | 	
 | 5      | 09.24        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    |                 |
 |        | 09.26        | 2.2, 2.3        | Set Operations and Functions      		    |	            |                 | 
 |        | 09.28        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            | HW04 (written)  | 
