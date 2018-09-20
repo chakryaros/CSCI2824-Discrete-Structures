@@ -22,14 +22,14 @@
 |        | 09.21        | 1.8             | Proof Methods and Strategy 	              |             | [HW03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26831), [Quizlet04 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26832)   | 	
 | 5      | 09.24        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    |                 |
 |        | 09.26        | 2.2, 2.3        | Set Operations and Functions      		    |	            |                 | 
-|        | 09.28        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            | HW04 (written)  | 
+|        | 09.28        |                 | Catch-up day                  	 		      |	            |                 | 
 | 6      | 10.01        |                 | **Exam Review**				  		              |			        |                 |
 |        | 10.02        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Rachel (001) in HUMN 1B50; Tony (002) in DUAN G1B30  |
-|        | 10.03        | 2.4             | Sequences                                 |	            |                 |
-|        | 10.05        | 3.1             | Algorithms 						  		              |             |                 |
-| 7      | 10.08        | 3.2, 3.3        | Complexity			                          |	            | HW05 (online)   | 
-|        | 10.10        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |                 |
-|        | 10.12        |                 | More Complexity Examples          		    |	            | HW06 (written)  | 
+|        | 10.03        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            |                 | 
+|        | 10.05        | 2.4             | Sequences                                 |	            |                 |
+| 7      | 10.08        | 3.1             | Algorithms 						  		              |             | HW05 (online)   |
+|        | 10.10        | 3.2, 3.3        | Complexity			                          |	            |                 | 
+|        | 10.12        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | HW06 (written)  |
 | 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
 |        | 10.17        | 5.2             | Strong Induction						              |			        |                 |
 |        | 10.19        | 5.3, 5.4        | Recursion                                 |	            | HW07 (online)   | 
