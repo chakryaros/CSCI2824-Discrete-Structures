@@ -25,7 +25,7 @@
 |        | 09.28        |                 | Catch-up day                  	 		      |	            | [HW04 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmc5a4ypifg4uc)                | 
 | 6      | 10.01        |                 | **Exam Review**				  		              |			        | [Quizlet05 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26833), [All Moodle problems review](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26821)                |
 |        | 10.02        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Rachel (001) in HUMN 1B50; Tony (002) in DUAN G1B30  |
-|        | 10.03        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            |                 | 
+|        | 10.03        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	[TW](https://drive.google.com/open?id=14aVkqZMxHReLHYayeorvMJdVrVKSr5VQ)            |                 | 
 |        | 10.05        | 2.4             | Sequences                                 |	            |                 |
 | 7      | 10.08        | 3.1             | Algorithms 						  		              |             | HW05 (online)   |
 |        | 10.10        | 3.2, 3.3        | Complexity			                          |	            |                 | 
