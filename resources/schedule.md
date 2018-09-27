@@ -27,7 +27,7 @@
 |        | 10.02        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Rachel (001) in HUMN 1B50; Tony (002) in DUAN G1B30  |
 |        | 10.03        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	[TW](https://drive.google.com/open?id=14aVkqZMxHReLHYayeorvMJdVrVKSr5VQ)            |                 | 
 |        | 10.05        | 2.4             | Sequences                                 |	            |                 |
-| 7      | 10.08        | 3.1             | Algorithms 						  		              |             | HW05 (online)   |
+| 7      | 10.08        | 3.1             | Algorithms 						  		              |             | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)   |
 |        | 10.10        | 3.2, 3.3        | Complexity			                          |	            |                 | 
 |        | 10.12        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | HW06 (written)  |
 | 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
