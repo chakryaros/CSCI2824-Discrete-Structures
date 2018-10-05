@@ -29,7 +29,7 @@
 |        | 10.05        | 2.4             | Sequences                                 |	[TW](https://drive.google.com/open?id=15z4bKAeqnqF9kwiNGq9H2UOKAdzDyjYk)            |                 |
 | 7      | 10.08        | 3.1             | Algorithms 						  		              |             | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)   |
 |        | 10.10        | 3.2, 3.3        | Complexity			                          |	            |                 | 
-|        | 10.12        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | HW06 (written)  |
+|        | 10.12        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmv931qzwybkl)  |
 | 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
 |        | 10.17        | 5.2             | Strong Induction						              |			        |                 |
 |        | 10.19        | 5.3, 5.4        | Recursion                                 |	            | HW07 (online)   | 
