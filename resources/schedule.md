@@ -27,7 +27,7 @@
 |        | 10.02        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Rachel (001) in HUMN 1B50; Tony (002) in DUAN G1B30  |
 |        | 10.03        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	[TW](https://drive.google.com/open?id=1p4dA16UDemsocfKBQzckqyiA0BVEEUkH)/[RC](https://drive.google.com/file/d/1CYzaT6_GRKMW-ipTMNmjXIbD0A-L0A5D/view?usp=sharing)            |                 | 
 |        | 10.05        | 2.4             | Sequences                                 |	[TW](https://drive.google.com/open?id=15z4bKAeqnqF9kwiNGq9H2UOKAdzDyjYk)/[RC](https://drive.google.com/file/d/1zcQgQRDfBtaEXps3M6lyPLoQu3CSf_d0/view?usp=sharing)            |                 |
-| 7      | 10.08        | 3.1             | Algorithms 						  		              |             | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)   |
+| 7      | 10.08        | 3.1             | Algorithms 						  		              |   TW/[RC](https://drive.google.com/open?id=170xv7N_-nrSmziTr2PKAHxzXzu0oNUsP)          | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)   |
 |        | 10.10        | 3.2, 3.3        | Complexity			                          |	            |                 | 
 |        | 10.12        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmw70vzgnjonr)  |
 | 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
