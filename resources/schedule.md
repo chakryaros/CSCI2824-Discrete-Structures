@@ -25,15 +25,16 @@
 |        | 09.28        |                 | Catch-up day                  	 		      |	            | [HW04 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmc5a4ypifg4uc)                | 
 | 6      | 10.01        |                 | **Exam Review**				  		              |			  [TW](https://drive.google.com/open?id=1lEk9ZO-u6gk96re5cwtpHSdFnnizY06Z)/[RC](https://drive.google.com/file/d/16Fuyo7htO5T3lNdv8uR8XXcRUXLxaMYB/view?usp=sharing)      | [Quizlet05 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26833), [All Moodle problems review](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26821)                |
 |        | 10.02        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Rachel (001) in HUMN 1B50; Tony (002) in DUAN G1B30  |
-|        | 10.03        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	[TW](https://drive.google.com/open?id=1p4dA16UDemsocfKBQzckqyiA0BVEEUkH)/[RC](https://drive.google.com/file/d/1em0-w9d20Eu9xp0jhlSn4vWIBth-PsO-/view?usp=sharing)            |                 | 
-|        | 10.05        | 2.4             | Sequences                                 |	[TW](https://drive.google.com/open?id=15z4bKAeqnqF9kwiNGq9H2UOKAdzDyjYk)/[RC](https://drive.google.com/file/d/1zcQgQRDfBtaEXps3M6lyPLoQu3CSf_d0/view?usp=sharing)            |                 |
-| 7      | 10.08        | 3.1             | Algorithms 						  		              |   TW/[RC](https://drive.google.com/open?id=170xv7N_-nrSmziTr2PKAHxzXzu0oNUsP)          | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)   |
-|        | 10.10        | 3.2, 3.3        | Complexity			                          |	            |                 | 
-|        | 10.12        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmw70vzgnjonr)  |
-| 8      | 10.15        | 5.1             | Weak Induction                            |	            |                 | 
-|        | 10.17        | 5.2             | Strong Induction						              |			        |                 |
-|        | 10.19        | 5.3, 5.4        | Recursion                                 |	            | HW07 (online)   | 
-| 9      | 10.22        | 5.1-5.4         | More Induction Examples 			        	  |	            |                 | 
+|        | 10.03        | 2.3, 2.5        | Functions 	 		      |	[TW](https://drive.google.com/open?id=1p4dA16UDemsocfKBQzckqyiA0BVEEUkH)/[RC](https://drive.google.com/file/d/1em0-w9d20Eu9xp0jhlSn4vWIBth-PsO-/view?usp=sharing)            |                 | 
+|        | 10.05        | 2.3, 2.5        | Function and Cardinality-Lite            |	[TW](https://drive.google.com/open?id=1p4dA16UDemsocfKBQzckqyiA0BVEEUkH)/[RC](https://drive.google.com/file/d/1em0-w9d20Eu9xp0jhlSn4vWIBth-PsO-/view?usp=sharing)            |                 |
+| 7      | 10.08        | 2.4             | Sequences                                 |	[TW](https://drive.google.com/open?id=15z4bKAeqnqF9kwiNGq9H2UOKAdzDyjYk)/[RC](https://drive.google.com/file/d/1zcQgQRDfBtaEXps3M6lyPLoQu3CSf_d0/view?usp=sharing)            | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)                |
+|        | 10.10        | 3.1             | Algorithms 						  		              |   TW/[RC](https://drive.google.com/open?id=170xv7N_-nrSmziTr2PKAHxzXzu0oNUsP)          |    |
+
+|        | 10.12        | 3.2, 3.3        | Complexity			                          |	            | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmw70vzgnjonr)                | 
+| 8      | 10.15        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |   |
+|        | 10.17        | 5.1             | Weak Induction                            |	            |                 | 
+|        | 10.19        | 5.2             | Strong Induction						              |			        | HW07 (online)   |
+| 9      | 10.22        | 5.3, 5.4        | Recursion                                 |	            |                 | 
 |        | 10.24        | 6.1             | Counting                                  |	            |                 | 
 |        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | HW08 (written)  | 
 | 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	            |                 | 
