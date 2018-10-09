@@ -29,7 +29,7 @@
 |        | 10.05        | 2.3, 2.5        | Function and Cardinality-Lite            |	[TW](https://drive.google.com/open?id=1p4dA16UDemsocfKBQzckqyiA0BVEEUkH)/[RC](https://drive.google.com/file/d/1em0-w9d20Eu9xp0jhlSn4vWIBth-PsO-/view?usp=sharing)            |                 |
 | 7      | 10.08        | 2.4             | Sequences                                 |	[TW](https://drive.google.com/open?id=15z4bKAeqnqF9kwiNGq9H2UOKAdzDyjYk)/[RC](https://drive.google.com/file/d/1zcQgQRDfBtaEXps3M6lyPLoQu3CSf_d0/view?usp=sharing)            | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)                |
 |        | 10.10        | 3.1             | Algorithms 						  		              |   TW/[RC](https://drive.google.com/open?id=170xv7N_-nrSmziTr2PKAHxzXzu0oNUsP)          | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26835)   |
-|        | 10.12        | 3.2, 3.3        | Complexity			                          |	            | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmw70vzgnjonr)                | 
+|        | 10.12        | 3.2, 3.3        | Complexity			                          |	     TW/[RC](https://drive.google.com/file/d/1hLntAUY9Kh8kEFoe4sz_DagVkRtCxtwP/view?usp=sharing)       | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmw70vzgnjonr)                | 
 | 8      | 10.15        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |   |
 |        | 10.17        | 5.1             | Weak Induction                            |	            |                 | 
 |        | 10.19        | 5.2             | Strong Induction						              |			        | HW07 (online)   |
