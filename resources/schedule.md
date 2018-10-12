@@ -30,9 +30,9 @@
 | 7      | 10.08        | 2.4             | Sequences                                 |	[TW](https://drive.google.com/open?id=1w-fHeyRCwWL_b6rlVeBVscFHMappescI)/[RC](https://drive.google.com/file/d/1zcQgQRDfBtaEXps3M6lyPLoQu3CSf_d0/view?usp=sharing)            | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26834)                |
 |        | 10.10        | 3.1             | Algorithms 						  		              |   [TW](https://drive.google.com/open?id=1ngw81SRBb0HnxuJDfwzlOeWPX58sn9Pd)/[RC](https://drive.google.com/open?id=170xv7N_-nrSmziTr2PKAHxzXzu0oNUsP)          | [Quizlet06 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26835)   |
 |        | 10.12        | 3.2, 3.3        | Complexity			                          |	     TW/[RC](https://drive.google.com/file/d/1hLntAUY9Kh8kEFoe4sz_DagVkRtCxtwP/view?usp=sharing)       | [HW06 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jmw70vzgnjonr)                | 
-| 8      | 10.15        | 3.3, 2.6        | Complexity and Matrix Operations          |			        |   |
+| 8      | 10.15        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | [Quizlet07 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26836)   |
 |        | 10.17        | 5.1             | Weak Induction                            |	            |                 | 
-|        | 10.19        | 5.2             | Strong Induction						              |			        | HW07 (online)   |
+|        | 10.19        | 5.2             | Strong Induction						              |			        | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26837)   |
 | 9      | 10.22        | 5.3, 5.4        | Recursion                                 |	            |                 | 
 |        | 10.24        | 6.1             | Counting                                  |	            |                 | 
 |        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | HW08 (written)  | 
