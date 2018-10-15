@@ -48,7 +48,7 @@
 |        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.21        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.23        |                 | **FALL BREAK - NO CLASS**                 |			        |                 |
-| 13     | 11.26        | 8.2, 8.3        | Solving Linear More Recurrences           |		          |	  	            | 
+| 13     | 11.26        | 8.2, 8.3        | Solving More Linear Recurrences           |		          |	  	            | 
 |        | 11.28        | 8.2, 8.3        | Recurrences and Induction                 |		          |	                | 
 |        | 11.30        | 9.1, 9.2        | Basic Relations and Properties    			  |             | HW12 (written)  | 
 | 14     | 12.03        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	            |                 | 
