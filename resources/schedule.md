@@ -40,7 +40,8 @@
 |        | 10.31        | 6.4, 6.5        | Binomial Theorem, and More Counting	 		  |			        |                 |
 |        | 11.02        | 7.1             | Basic Probability                         |	            | HW09 (online)   | 
 | 11     | 11.05        |                 | **Exam Review**                           |	            |                 | 
-|        | 11.07        | 7.2       	    | Basic Probability Theory                  |	       	    | **EVENING MIDTERM** |
+|        | 11.06        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Both sections: MATH 100  |
+|        | 11.07        | 7.2       	    | Basic Probability Theory                  |	       	    |                 |
 |        | 11.09        | 7.3             | Bayes' Theorem                            |	            |                 | 
 | 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | HW10 (written)  | 
 |        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
