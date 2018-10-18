@@ -33,7 +33,7 @@
 | 8      | 10.15        | 3.3, 2.6        | Complexity and Matrix Operations          |			 [TW](https://drive.google.com/open?id=1haeu0AFGYp1ttwv3WXwEiYWhhZDkzLzU)/[RC](https://drive.google.com/file/d/1JIJh8-8XiMMXZC0vplIaozakMAE1O4B3/view?usp=sharing)       | [Quizlet07 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26836)   |
 |        | 10.17        | 5.1             | Weak Induction                            |	     [TW](https://drive.google.com/open?id=1o7tQjF9dtpWvP-MosM7EMG-8VTdD4F3S)/[RC](https://drive.google.com/file/d/1HhGW7QyiLT602sthVzMam8o2Kfrv5ZWq/view?usp=sharing)       |                 | 
 |        | 10.19        | 5.2             | Strong Induction						              |			        | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26837)   |
-| 9      | 10.22        | 5.3, 5.4        | Recursion                                 |	            |                 | 
+| 9      | 10.22        | 5.3, 5.4        | Recursion                                 |	            | [Quizlet08 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26838)                | 
 |        | 10.24        | 6.1             | Counting                                  |	            |                 | 
 |        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | HW08 (written); [turn in electronically HERE ONLY](https://moodle.cs.colorado.edu/mod/assign/view.php?id=30939)  | 
 | 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	            |                 | 
