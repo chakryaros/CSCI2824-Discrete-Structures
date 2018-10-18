@@ -35,7 +35,7 @@
 |        | 10.19        | 5.2             | Strong Induction						              |			        | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26837)   |
 | 9      | 10.22        | 5.3, 5.4        | Recursion                                 |	            |                 | 
 |        | 10.24        | 6.1             | Counting                                  |	            |                 | 
-|        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | HW08 (written); [turn in HERE ONLY](https://moodle.cs.colorado.edu/mod/assign/view.php?id=30939)  | 
+|        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | HW08 (written); [turn in electronically HERE ONLY](https://moodle.cs.colorado.edu/mod/assign/view.php?id=30939)  | 
 | 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	            |                 | 
 |        | 10.31        | 6.4, 6.5        | Binomial Theorem, and More Counting	 		  |			        |                 |
 |        | 11.02        | 7.1             | Basic Probability                         |	            | HW09 (online)   | 
