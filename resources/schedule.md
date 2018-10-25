@@ -36,7 +36,7 @@
 | 9      | 10.22        | 5.3, 5.4        | Recursion                                 |	     [TW](https://drive.google.com/open?id=1Zjb5c6TKhIz3HK_sVEFX4F_lGDajhpoi)/[RC](https://drive.google.com/file/d/1eyQUxESzV9akz9lzC_eQNzhyd33C4VHw/view?usp=sharing)       | [Quizlet08 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26838)                | 
 |        | 10.24        | 6.1             | Counting                                  |	     [TW](https://drive.google.com/open?id=1xZPLaQSiABSLeCa_6gdZEKd-GCkeHqsJ)/[RC](https://drive.google.com/file/d/1OGtSovBj0V6n5cUq8gn9rgYPPlUScQTZ/view?usp=sharing)       |                 | 
 |        | 10.26        | 6.2, 6.3        | The PHP, Perms and Combos                 |	            | [HW08 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jng5gl1rm08xz); [turn in electronically HERE ONLY](https://moodle.cs.colorado.edu/mod/assign/view.php?id=30939)  | 
-| 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	            |                 | 
+| 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	            | [Quizlet09 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26840)                | 
 |        | 10.31        | 6.4, 6.5        | Binomial Theorem, and More Counting	 		  |			        |                 |
 |        | 11.02        | 7.1             | Basic Probability                         |	            | HW09 (online)   | 
 | 11     | 11.05        |                 | **Exam Review**                           |	            |                 | 
