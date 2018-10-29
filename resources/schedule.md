@@ -39,7 +39,7 @@
 | 10     | 10.29        | 6.4, 6.5        | Perms and Combos, continued               |	 [TW](https://drive.google.com/open?id=1eHUSzu2JvkNK6ew_A9v5Lqdhj7Ole2SZ)/[RC](https://drive.google.com/file/d/1zie7ygKTbU_uRPDvhJGLZcVh5WKE8MaB/view?usp=sharing)           | [Quizlet09 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26840)                | 
 |        | 10.31        | 6.4, 6.5        | Binomial Theorem, and More Counting	 		  |			[RC](https://drive.google.com/file/d/151Q3ob95QlB6rM4JlWe8CalmmyHYyV7D/view?usp=sharing)        |                 |
 |        | 11.02        | 7.1             | Basic Probability                         |	            | HW09 (online)   | 
-| 11     | 11.05        |                 | **Exam Review**                           |	            |                 | 
+| 11     | 11.05        |                 | **Exam Review**                           |	            | [All Moodle problems](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26823)                | 
 |        | 11.06        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Both sections: MATH 100  |
 |        | 11.07        | 7.2       	    | Basic Probability Theory                  |	       	    |                 |
 |        | 11.09        | 7.3             | Bayes' Theorem                            |	            |                 | 
