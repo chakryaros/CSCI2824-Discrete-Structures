@@ -41,7 +41,7 @@
 |        | 11.02        | 7.1             | Basic Probability                         |	      [TW](https://drive.google.com/open?id=1YSULUfrOIpVgPDyrR5Iq_b0xYPSCsy4M)/[RC](https://drive.google.com/file/d/1My20vCPQcW7Py51zVOXuKP6S0HzFAw6y/view?usp=sharing)      | [HW09 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26839)   | 
 | 11     | 11.05        |                 | **Exam Review**                           |	            | [All Moodle problems](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26823)                | 
 |        | 11.06        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Both sections: MATH 100  |
-|        | 11.07        | 7.2       	    | Basic Probability Theory                  |	       	    |                 |
+|        | 11.07        | 7.2       	    | Basic Probability Theory                  |	    [RC](https://drive.google.com/file/d/1fm-dZOYKOdtVo5aGRgFGQWxTKtxNoGRi/view?usp=sharing)   	    |                 |
 |        | 11.09        | 7.3             | Bayes' Theorem                            |	            |                 | 
 | 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | HW10 (written)  | 
 |        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
