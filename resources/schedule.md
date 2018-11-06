@@ -42,8 +42,8 @@
 | 11     | 11.05        |                 | **Exam Review**                           |	[TW](https://drive.google.com/open?id=1sGxZfhg6dGJQzmYQDZPoxEP-7Wfm60fI)            | [All Moodle problems](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26823)                | 
 |        | 11.06        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Both sections: MATH 100  |
 |        | 11.07        | 7.2       	    | Basic Probability Theory                  |	    [RC](https://drive.google.com/file/d/1fm-dZOYKOdtVo5aGRgFGQWxTKtxNoGRi/view?usp=sharing)   	    |                 |
-|        | 11.09        | 7.3             | Bayes' Theorem                            |	            |                 | 
-| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | HW10 (written)  | 
+|        | 11.09        | 7.3             | Bayes' Theorem                            |	            | [Quizlet10 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26841)                | 
+| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | [HW10 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jo07gc2j4wx3l2)  | 
 |        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
 |        | 11.16        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (online)   | 
 |        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
