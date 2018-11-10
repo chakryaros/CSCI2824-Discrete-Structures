@@ -45,7 +45,7 @@
 |        | 11.09        | 7.3             | Bayes' Theorem                            |	[TW](https://drive.google.com/open?id=1Vxc3XC65g5XNsw5RRswbGM-tf6O61Wd_)/[RC](https://drive.google.com/file/d/1SNQliHdJSKTjq1HDSikStkSfP3XMSHvP/view?usp=sharing)       | [Quizlet10 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26841)                | 
 | 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | [HW10 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jo07gc2j4wx3l2)  | 
 |        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
-|        | 11.16        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (online)   | 
+|        | 11.16        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	[HW11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26842)   | 
 |        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.21        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.23        |                 | **FALL BREAK - NO CLASS**                 |			        |                 |
