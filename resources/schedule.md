@@ -43,7 +43,7 @@
 |        | 11.06        |                 | (Tuesday; no class)                       |**EVENING MIDTERM** 6:30-8 PM| Both sections: MATH 100  |
 |        | 11.07        | 7.2       	    | Basic Probability Theory                  |	[TW](https://drive.google.com/open?id=1MPuOAr4vud87AbsvMwxTB_0bUC85scn2)/[RC](https://drive.google.com/file/d/1fm-dZOYKOdtVo5aGRgFGQWxTKtxNoGRi/view?usp=sharing)   	    |                 |
 |        | 11.09        | 7.3             | Bayes' Theorem                            |	[TW](https://drive.google.com/open?id=1Vxc3XC65g5XNsw5RRswbGM-tf6O61Wd_)/[RC](https://drive.google.com/file/d/1SNQliHdJSKTjq1HDSikStkSfP3XMSHvP/view?usp=sharing)       | [Quizlet10 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26841)                | 
-| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	            | [HW10 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jo07gc2j4wx3l2)  | 
+| 12     | 11.12        | 7.3             | Applications of Bayes' Theorem            |	     [RC](https://drive.google.com/file/d/1XHU_GL3cDPH46WrAw2ijFuhTzanPMyx3/view?usp=sharing)       | [HW10 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jo07gc2j4wx3l2)  | 
 |        | 11.14        | 8.1             | Recurrences and Dynamic Programming       |			        |                 |
 |        | 11.16        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	[HW11 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26842)   | 
 |        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
