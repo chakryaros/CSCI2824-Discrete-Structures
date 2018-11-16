@@ -51,8 +51,8 @@
 |        | 11.23        |                 | **FALL BREAK - NO CLASS**                 |			        |                 |
 | 13     | 11.26        | 8.2, 8.3        | Solving More Linear Recurrences           |		          |	  	            | 
 |        | 11.28        | 8.2, 8.3        | Recurrences and Induction                 |		          |	                | 
-|        | 11.30        | 9.1, 9.2        | Basic Relations and Properties    			  |             | HW12 (written)  | 
-| 14     | 12.03        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	            |                 | 
+|        | 11.30        | 9.1, 9.2        | Basic Relations and Properties    			  |             |                 | 
+| 14     | 12.03        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	            | HW12 (written)  | 
 |        | 12.05        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			        |                 |
 |        | 12.07        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
 | 15     | 12.10        | 11.1, 11.2      | Basic Trees                               |	    		    |                 |
