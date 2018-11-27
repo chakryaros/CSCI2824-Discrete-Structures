@@ -49,7 +49,7 @@
 |        | 11.19        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.21        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.23        |                 | **FALL BREAK - NO CLASS**                 |			        |                 |
-| 13     | 11.26        | 8.2, 8.3        | Solving More Linear Recurrences           |	[TW](https://drive.google.com/open?id=1Bh-pawIsGkO3Xp4u8mLVKMcX2OtCpvqw)/[RC](https://drive.google.com/file/d/1IDFA7C4Hg8owrdtP2VcPkHiwg5MyR696/view?usp=sharing)	          |	  	            | 
+| 13     | 11.26        | 8.2, 8.3        | Solving More Linear Recurrences           |	[TW](https://drive.google.com/open?id=1Bh-pawIsGkO3Xp4u8mLVKMcX2OtCpvqw)/[RC](https://drive.google.com/file/d/1nplVQk-IRq6QgYEUFAB9MOreoCDbjTz4/view?usp=sharing)	          |	  	            | 
 |        | 11.28        | 8.2, 8.3        | Recurrences and Induction                 |		          |	                | 
 |        | 11.30        | 9.1, 9.2        | Basic Relations and Properties    			  |             | [Quizlet11 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26843)                | 
 | 14     | 12.03        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	            | [HW12 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jouwqft7zaq6qn)  | 
