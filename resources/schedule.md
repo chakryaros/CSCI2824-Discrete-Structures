@@ -50,7 +50,7 @@
 |        | 11.21        |                 | **FALL BREAK - NO CLASS**                 |	            |                 | 
 |        | 11.23        |                 | **FALL BREAK - NO CLASS**                 |			        |                 |
 | 13     | 11.26        | 8.2, 8.3        | Solving More Linear Recurrences           |	[TW](https://drive.google.com/open?id=103jtxghzrzGJmx_LsWlxsWko4KDjTt2d)/[RC](https://drive.google.com/file/d/1hl1ZvKlpHkdxgGCZYzPZPFcYOExIJmL-/view?usp=sharing)	          |	  	            | 
-|        | 11.28        | 8.2, 8.3        | Recurrences and Induction                 |		    [TW](https://drive.google.com/open?id=1ApZeZUDa4VyGmMEp-rUeInrWTMeNZbmU)/[RC](https://drive.google.com/file/d/15P5T8t-J_v5dUQlLvqT-dD2OYItvUOaq/view?usp=sharing)      |	                | 
+|        | 11.28        | 8.2, 8.3        | Recurrences and Induction                 |		    [TW](https://drive.google.com/open?id=1ApZeZUDa4VyGmMEp-rUeInrWTMeNZbmU)/[RC](https://drive.google.com/file/d/1lVzGt8n-ZUGnfz4Nw2zJ0GY-eHL5WW8p/view?usp=sharing)      |	                | 
 |        | 11.30        | 9.1, 9.2        | Basic Relations and Properties    			  | [TW](https://drive.google.com/open?id=1P_Zx6XmLgUc8spfWdrE8N7QpnCmDjx1C)/[RC](https://drive.google.com/file/d/1mDhlgAs4DNO7YleZrz-aOzvR99SRzzSP/view?usp=sharing)            | [Quizlet11 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26843)                | 
 | 14     | 12.03        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |	            | [HW12 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jouwqft7zaq6qn)  | 
 |        | 12.05        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			        |                 |
