@@ -56,7 +56,7 @@
 |        | 12.05        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |			        |                 |
 |        | 12.07        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
 | 15     | 12.10        | 11.1, 11.2      | Basic Trees                               |	    		    |                 |
-|        | 12.12        |                 | Structural Induction on Trees             |	            | HW13 (written)  | 
+|        | 12.12        |                 | Structural Induction on Trees             |	            | [HW13 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jp40qkc537r770) (not for points)  | 
 |        | 12.14        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			        |	                |
 | 16     | 12.16        | (Sunday)        | **FINAL EXAM SECTION 002, 7:30-10 PM**    |			        |			            | 
 |        | 12.19        | (Wednesday)     | **FINAL EXAM SECTION 001, 1:30-4 PM**     |			        |	      		      | 
