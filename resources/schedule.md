@@ -57,6 +57,6 @@
 |        | 12.07        | 10.8            | Graph Coloring and Scheduling Problems    |	            | [Quizlet12 due](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26845)               | 
 | 15     | 12.10        | 11.1, 11.2      | Basic Trees                               |	    		    |                 |
 |        | 12.12        |                 | Structural Induction on Trees             |	            | [HW13 (written)](https://piazza.com/class_profile/get_resource/jkck1w8eosg5tr/jp40qkc537r770) (not for points)  | 
-|        | 12.14        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			        |	                |
+|        | 12.14        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			        |	[All Moodle problems](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=26824)                |
 | 16     | 12.16        | (Sunday)        | **FINAL EXAM SECTION 002, 7:30-10 PM**    |			        |			            | 
 |        | 12.19        | (Wednesday)     | **FINAL EXAM SECTION 001, 1:30-4 PM**     |			        |	      		      | 
